@@ -1,0 +1,23 @@
+import { ComponentFixture, TestBed } from '@angular/core/testing';
+
+import { AssociateListComponent } from './associate-list.component';
+
+describe('AssociateListComponent', () => {
+  let component: AssociateListComponent;
+  let fixture: ComponentFixture<AssociateListComponent>;
+
+  beforeEach(async () => {
+    await TestBed.configureTestingModule({
+      declarations: [AssociateListComponent]
+    })
+    .compileComponents();
+
+    fixture = TestBed.createComponent(AssociateListComponent);
+    component = fixture.componentInstance;
+    fixture.detectChanges();
+  });
+
+  it('should create', () => {
+    expect(component).toBeTruthy();
+  });
+});

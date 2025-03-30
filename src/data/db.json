@@ -1,0 +1,64 @@
+{
+  "associate": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john.doe@gmail.com",
+      "phone": "123-456-7890",
+      "type": "CUSTOMER",
+      "address": "123 Main St, Cityville",
+      "associateGroup": "Level-1",
+      "status": true
+    },
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "email": "jane.doe@gmail.com",
+      "phone": "123-456-7890",
+      "type": "CUSTOMER",
+      "address": "123 Main St, Cityville",
+      "associateGroup": "Level-1",
+      "status": true
+    },
+    {
+      "id": "3",
+      "name": "Jack Doe",
+      "email": "jack.doe@gmail.com",
+      "phone": "123-456-7890",
+      "type": "CUSTOMER",
+      "address": "123 Main St, Cityville",
+      "associateGroup": "Level-1",
+      "status": true
+    },
+    {
+      "id": "4",
+      "name": "Brian Doe",
+      "email": "brian.doe@gmail.com",
+      "phone": "123-456-7890",
+      "type": "CUSTOMER",
+      "address": "123 Main St, Cityville",
+      "associateGroup": "Level-1",
+      "status": true
+    },
+    {
+      "id": "5",
+      "name": "David Doe",
+      "email": "david.doe@gmail.com",
+      "phone": "123-456-7890",
+      "type": "CUSTOMER",
+      "address": "123 Main St, Cityville",
+      "associateGroup": "Level-1",
+      "status": true
+    },
+    {
+      "id": "6",
+      "name": "Nick Doe",
+      "email": "nick.doe@gmail.com",
+      "phone": "123-456-7890",
+      "type": "CUSTOMER",
+      "address": "123 Main St, Cityville",
+      "associateGroup": "Level-1",
+      "status": true
+    }
+  ]
+}
